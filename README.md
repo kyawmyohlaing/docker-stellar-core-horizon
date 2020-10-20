@@ -195,3 +195,5 @@ $ docker run -d \
 ## Troubleshooting
 
 Let us know what you're having trouble with!  Open an issue or join us on our public slack channel.
+#   d o c k e r - s t e l l a r - c o r e - h o r i z o n - v 1  
+ 
